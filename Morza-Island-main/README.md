@@ -247,3 +247,15 @@ Special thanks to the following individuals for their assistance and contributio
 | Commander Snarltooth Ironhide Head | 300300                       |
 | Old Toby's Leaf                 | 300302                       |
 | Skooma                         | 300301                       |
+
+
+
+--------
+## Screenshot
+
+![Screenshot](Screen1.jpg)
+
+## Island Preview Video
+
+[![Watch the video](https://img.youtube.com/vi/zFieaIOu1FU/0.jpg)](https://www.youtube.com/watch?v=zFieaIOu1FU)
+
