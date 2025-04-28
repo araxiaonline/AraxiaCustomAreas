@@ -4,8 +4,7 @@
 A custom **level 80 five-player questline & boss encounter** for **AzerothCore (WOTLK 3.3.5)**, featuring **Oceanmane Village**, a lost Tauren outpost hidden within **Silithus**, and the **corruption threatening its survival**.  
 
 ---
-
-```-Coordinates:  .go xyz -10735 2467 7 1```
+```Coordinates:  .go xyz -10735 2467 7 1```
 
 ---
 
