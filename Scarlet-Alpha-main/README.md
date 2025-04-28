@@ -1,7 +1,9 @@
 # Scarlet-Alpha
 A recreation of Scarlet Monastery for WOW Alpha (Upgraded for Mythic)
 
+```Coordinates: .go xyz 79.100235 0.019755 18.677372 44```
 
+---
 # NPC ID Numbers
 | ID | Unit Name | Done |
 | - | - | - |
