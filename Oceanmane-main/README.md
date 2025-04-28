@@ -5,6 +5,10 @@ A custom **level 80 five-player questline & boss encounter** for **AzerothCore (
 
 ---
 
+```-Coordinates:  .go xyz -10735 2467 7 1```
+
+---
+
 ## 📖 **Oceanmane Village: A Lost Tauren Settlement Rediscovered**  
 Nestled along the **southwestern shores of Kalimdor**, **Oceanmane Village** was an **ancient Tauren settlement** once thought lost to the sands of **Silithus**. Now restored, it offers adventurers a **bustling outpost** of Tauren culture, **essential services**, and **secrets buried in its sacred caves**.  
 
